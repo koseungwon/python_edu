@@ -61,4 +61,6 @@ https://www.anaconda.com/download
 
  - 테스트 코드
    * 테스트 코드도 동일하게 해당 경로에 파이참으로 파일을 만들어서 진행
+  
+ - 혹시 CUDA 관련 에러 메시지 발견 시 https://developer.nvidia.com/cuda-11.0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10 해당 링크에서 파일 다운로드하여 설치 진행
 
